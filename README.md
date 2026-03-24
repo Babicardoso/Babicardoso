@@ -1,4 +1,4 @@
-# ╓ Olá, eu sou a Bárbara Cardoso!╜ 👋
+# 「 Olá, eu sou a Bárbara Cardoso! 」
 
 ### ⋄ Estudante de Desenvolvimento de Sistemas @ SENAI ⊹
 
