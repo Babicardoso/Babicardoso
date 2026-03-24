@@ -1,6 +1,6 @@
-# Olá, eu sou a Bárbara Cardoso! 👋
+# ╓ Olá, eu sou a Bárbara Cardoso!╜ 👋
 
-### 👩‍💻 Estudante de Desenvolvimento de Sistemas @ SENAI
+### ⋄ Estudante de Desenvolvimento de Sistemas @ SENAI ⊹
 
 Sou uma entusiasta da tecnologia em transição/evolução de carreira, atualmente mergulhada no mundo da programação através do curso técnico no **SENAI**. Busco transformar problemas complexos em soluções digitais elegantes e eficientes.
 
@@ -10,8 +10,7 @@ Sou uma entusiasta da tecnologia em transição/evolução de carreira, atualmen
 
 - 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** no SENAI.
 - 💡 Focada em aprender lógica de programação, arquitetura de software e boas práticas.
-- 🌱 No momento, estou explorando o ecossistema de [Inserir Linguagem, ex: Java/Python/JavaScript].
-- 📫 Como me encontrar: [Seu E-mail ou Link do LinkedIn]
+- 📫 Como me encontrar: bcardosoferreira25@gmail.com
 
 ---
 
