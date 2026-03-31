@@ -1,6 +1,6 @@
 # $\color{pink}{\text{「 Olá, eu sou a Bárbara Cardoso! 」}}$ 
 
-### $\color{blue}{\text{⋄}}$  Estudante de Desenvolvimento de Sistemas @ SENAI ⊹
+### $\color{blue}{\text{⋄}}$  Estudante de Desenvolvimento de Sistemas no SENAI $\color{purple}{\text{⊹}}$ 
 
 Sou uma entusiasta da tecnologia em transição/evolução de carreira, atualmente mergulhada no mundo da programação através do curso técnico no **SENAI**. Busco transformar problemas complexos em soluções digitais elegantes e eficientes.
 
